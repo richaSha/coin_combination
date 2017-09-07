@@ -15,10 +15,21 @@ _It will make convert cents to quarters, dimes, nickels, and pennies _
 
 ## Specifications
 
-* _Return ._
-* Example input:
-* Example output:
-*
+* _return possible max no of quater for user entered coins ._
+* Example input:75
+* Example output:3 Quater
+* _return possible max no of quater for user entered coins ._
+* Example input:20
+* Example output:2 Dime
+* _return possible max no of quater for user entered coins ._
+* Example input:755
+* Example output:1 Nickel
+* _return possible max no of quater for user entered coins ._
+* Example input:4
+* Example output:4 Penny
+* _return possible max no of quater for user entered coins ._
+* Example input:114
+* Example output:4 Quater 1 Dime 4 Penny
 
 
 ## Known Bugs
